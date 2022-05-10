@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652181692 source:c:\users\tim.truong\desktop\ausbildung\1\berufsschule\lf5 baumann\robo\newwalle\main.c
+	<stdio.h>
+
+1652178045 source:c:\users\tim.truong\desktop\ausbildung\1\berufsschule\lf5 baumann\robo\newwalle\helper.c
+	<stdio.h>
+
+1652181408 source:c:\users\tim.truong\desktop\ausbildung\1\berufsschule\lf5 baumann\robo\newwalle\r.system.c
+	<stdio.h>
+
+1652180603 source:c:\users\tim.truong\desktop\ausbildung\1\berufsschule\lf5 baumann\robo\newwalle\roboter.c
+	<stdio.h>
+
+1652180708 source:c:\users\tim.truong\desktop\ausbildung\1\berufsschule\lf5 baumann\robo\newwalle\movement.c
+	<stdio.h>
+
